@@ -302,8 +302,8 @@
   "majorIdeal": "",
   "minorIdeal": "",
   "clocks": [],
-  "portrait": "//pilots/cade.png",
-  "cloud_portrait": "//pilots/cade.png",
+  "portrait": "/pilots/cade.png",
+  "cloud_portrait": "/pilots/cade.png",
   "loadout": {
     "id": "e766180d-74d9-42ec-a07e-5e92704e16bb",
     "name": "Primary",

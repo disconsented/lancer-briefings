@@ -302,8 +302,8 @@
   "majorIdeal": "",
   "minorIdeal": "",
   "clocks": [],
-  "portrait": "//pilots/franq.jpg",
-  "cloud_portrait": "//pilots/franq.jpg",
+  "portrait": "/pilots/franq.jpg",
+  "cloud_portrait": "/pilots/franq.jpg",
   "loadout": {
     "id": "e766180d-74d9-42ec-a07e-5e92704e16bb",
     "name": "Primary",
