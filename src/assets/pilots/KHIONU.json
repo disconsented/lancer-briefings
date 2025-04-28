@@ -43,8 +43,8 @@
       "reactor_destroyed": false,
       "core_active": false,
       "cc_ver": "ERR",
-      "portrait": "/public/mechs/meticulous_denial.png",
-      "cloud_portrait": "/public/mechs/meticulous_denial.png",
+      "portrait": "//mechs/meticulous_denial.png",
+      "cloud_portrait": "//mechs/meticulous_denial.png",
       "loadouts": [
         {
           "id": "dcd5d821-5ca3-4117-b3d0-4b77a7e6be1d",
@@ -302,8 +302,8 @@
   "majorIdeal": "",
   "minorIdeal": "",
   "clocks": [],
-  "portrait": "/public/pilots/khionu.png",
-  "cloud_portrait": "/public/pilots/khionu.png",
+  "portrait": "//pilots/khionu.png",
+  "cloud_portrait": "//pilots/khionu.png",
   "loadout": {
     "id": "e766180d-74d9-42ec-a07e-5e92704e16bb",
     "name": "Primary",

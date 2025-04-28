@@ -44,7 +44,7 @@
       "core_active": false,
       "cc_ver": "ERR",
       "portrait": "collateral_damage.png",
-      "cloud_portrait": "/public/mechs/thunderhead-mk2.png",
+      "cloud_portrait": "//mechs/thunderhead-mk2.png",
       "loadouts": [
         {
           "id": "dcd5d821-5ca3-4117-b3d0-4b77a7e6be1d",
@@ -302,8 +302,8 @@
   "majorIdeal": "",
   "minorIdeal": "",
   "clocks": [],
-  "portrait": "/public/pilots/bones.jpg",
-  "cloud_portrait": "/public/pilots/bones.jpg",
+  "portrait": "//pilots/bones.jpg",
+  "cloud_portrait": "//pilots/bones.jpg",
   "loadout": {
     "id": "e766180d-74d9-42ec-a07e-5e92704e16bb",
     "name": "Primary",
