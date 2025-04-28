@@ -365,7 +365,7 @@ section.section-container#pilots .rhombus-back {
 }
 
 .pilot-list-container {
-	height: 666px;
+	height: fit-content;
 }
 
 section .section-header {
@@ -394,7 +394,7 @@ section .section-header h1 {
 }
 
 .section-content-container {
-	height: 666px;
+	height: 100%;
 	background: var(--secondary-color);
 	border: 1px solid var(--primary-color);
 	margin-top: -1px;
